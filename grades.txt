@@ -1,0 +1,3 @@
+Name                Grade
+Tee                  42
+Lavo                 77
