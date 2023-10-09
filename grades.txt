@@ -1,3 +1,4 @@
 Name                Grade
 Tee                  42
 Lavo                 77
+Francess             67
